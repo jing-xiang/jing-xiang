@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chewjingxiang@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1f-NRxJ5X9q51xA3WRHtmAayIR4iG-umx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
