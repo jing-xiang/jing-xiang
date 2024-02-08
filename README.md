@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang" alt="jing-xiang" /></a> </p>
 
-- 🔭 I’m currently working on [Academese](https://github.com/jing-xiang/academese)
+- 🔭 I’m currently working at TikTok!
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **React, .NET, JS**
 
 - 📫 How to reach me **chewjingxiang@hotmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1f-NRxJ5X9q51xA3WRHtmAayIR4iG-umx/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1eufVhxEEYJk8I1h3JsnlRkASVzzgIHDI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
