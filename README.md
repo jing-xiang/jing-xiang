@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang" alt="jing-xiang" /></a> </p>
 
-- 🔭 I’m currently working at TikTok!
+- 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/e39afc1c-181a-4ba9-ae08-993c289e20e2)
+
 
 - 🌱 I’m currently learning **Go**
 
