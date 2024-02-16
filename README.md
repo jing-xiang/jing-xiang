@@ -6,7 +6,7 @@
 - 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/e39afc1c-181a-4ba9-ae08-993c289e20e2)
 
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **API Testing**~
 
 - 💬 Ask me about **React, .NET, JS**
 
