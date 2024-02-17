@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, .NET, JS**
 
-- 📫 How to reach me **chewjingxiang@hotmail.com**
+- 📫 Reach out to me at **chewjingxiang@hotmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1eufVhxEEYJk8I1h3JsnlRkASVzzgIHDI/view?usp=sharing)
 
