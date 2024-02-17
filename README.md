@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jing Xiang</h1>
-<h3 align="center">A passionate full-stack software engineer in NUS!</h3>
+<h3 align="center">A passionate Software Engineer studying in NUS!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang" alt="jing-xiang" /></a> </p>
 
-- 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/e39afc1c-181a-4ba9-ae08-993c289e20e2)
-
+- 🔭 I’m currently a Software Engineer Intern at TikTok! ![tiktok github](https://github.com/jing-xiang/jing-xiang/assets/61624545/0ab32f16-d4f4-4fde-9d8d-cd23d1baffd3)
 
 - 🌱 I’m currently learning **Go** and **API Testing**~
 
