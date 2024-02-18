@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jing Xiang</h1>
 <h3 align="center">A passionate Software Engineer studying in NUS!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang" alt="jing-xiang" /></a> </p>
-
 - 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/ea6631c4-35ae-4325-914a-e320516fe16a)
 
 - 🌱 I’m currently learning **Go** and **API Testing**~
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jing-xiang&show_icons=true&locale=en" alt="jing-xiang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jing-xiang&" alt="jing-xiang" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang" alt="jing-xiang" /></a> </p>
