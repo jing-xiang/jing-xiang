@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jing Xiang</h1>
-<h3 align="center">A passionate Software Engineer studying in NUS!</h3>
+<h3 align="center">A budding Software Engineer studying Computer Engineering in NUS!</h3>
 
 - 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/ea6631c4-35ae-4325-914a-e320516fe16a)
 
