@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jing-xiang&theme=tokyonight&show_icons=true&locale=en" alt="jing-xiang" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jing-xiang&" alt="jing-xiang" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jing-xiang&theme=tokyonight" alt="jing-xiang" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang" alt="jing-xiang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jing-xiang&theme=nord" alt="jing-xiang" /></a> </p>
