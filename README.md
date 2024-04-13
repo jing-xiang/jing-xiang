@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jing Xiang</h1>
-<h3 align="center">A budding Software Engineer studying Computer Engineering in NUS!</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;I'm Studying Computer Engineering!;I'm from NUS!;I'm a Software Engineer!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/ea6631c4-35ae-4325-914a-e320516fe16a)
 
