@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jing Xiang</h1>
+<h1 align="center">Hi 👋, I'm Jing Xiang!</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Software+Engineer!;I'm+studying+in+NUS!;I'm+studying+Computer+Engineering!;Welcome!)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chew-jing-xiang-a76241229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chew-jing-xiang-a76241229/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chew-jing-xiang-a76241229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chew-jing-xiang-a76241229/" height="30" width="40" /></a>
 <a href="https://instagram.com/jing_xiang__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jing_xiang__" height="30" width="40" /></a>
 </p>
 
