@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/ea6631c4-35ae-4325-914a-e320516fe16a)
 
-- 🌱 I’m currently learning **Go** and **API Testing**~
-
-- 💬 Ask me about **React, .NET, JS**
-
 - 📫 Reach out to me at **chewjingxiang@hotmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1eufVhxEEYJk8I1h3JsnlRkASVzzgIHDI/view?usp=sharing)
