@@ -2,10 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Software+Engineer!;I'm+studying+in+NUS!;I'm+studying+Computer+Engineering!;Welcome!)
 
-- 🔭 I’m currently a Software Engineer Intern at TikTok! ![2560px-TikTok_logo svg](https://github.com/jing-xiang/jing-xiang/assets/61624545/ea6631c4-35ae-4325-914a-e320516fe16a)
-
-- 📫 Reach out to me at **chewjingxiang@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chew-jing-xiang-a76241229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chew-jing-xiang-a76241229/" height="30" width="40" /></a>
